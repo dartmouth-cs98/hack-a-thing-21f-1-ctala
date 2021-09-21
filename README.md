@@ -9,16 +9,19 @@ I followed an Apple tutorial to build a basic iOS app that helps suers manage th
 Include some screenshots.
 
 This is the main screen where you can list out all the scrums.
-![mainview](./Images/ScrumApp.png)
+<img src="./Images/ScrumApp.png" alt="drawing" width="200"/>
 
 You can also add a new scrum with the "plus" button. 
-![addView](./Images/AddScrum.png)
+<img src="./Images/AddScrum.png" alt="drawing" width="200"/>
 
 Once you click into a specific scrum, you get the meeting's details. 
-![detail](./Images/EditView.png)
+
+<img src="./Images/EditView.png" alt="drawing" width="200"/>
 
 Pressing Start Meeting leads you to a timer that keeps track of how long the meeting has gone for/how much time is left. 
-![timer](./Images/TimerView.png)
+
+
+<img src="./Images/TimerView.png" alt="drawing" width="200"/>
 
 ## Who Did What?
 
