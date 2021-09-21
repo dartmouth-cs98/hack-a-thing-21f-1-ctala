@@ -9,9 +9,11 @@ I followed an Apple tutorial to build a basic iOS app that helps suers manage th
 Include some screenshots.
 
 This is the main screen where you can list out all the scrums.
+
 <img src="./Images/ScrumApp.png" alt="drawing" width="200"/>
 
 You can also add a new scrum with the "plus" button. 
+
 <img src="./Images/AddScrum.png" alt="drawing" width="200"/>
 
 Once you click into a specific scrum, you get the meeting's details. 
